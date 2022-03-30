@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		F001E39727F364D40007EAA4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F001E39627F364D40007EAA4 /* AppDelegate.swift */; };
 		F001E39927F364D40007EAA4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F001E39827F364D40007EAA4 /* SceneDelegate.swift */; };
-		F001E39B27F364D40007EAA4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F001E39A27F364D40007EAA4 /* ViewController.swift */; };
-		F001E39E27F364D40007EAA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F001E39C27F364D40007EAA4 /* Main.storyboard */; };
-		F001E3A027F364D60007EAA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F001E39F27F364D60007EAA4 /* Assets.xcassets */; };
 		F001E3A327F364D60007EAA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F001E3A127F364D60007EAA4 /* LaunchScreen.storyboard */; };
+		F05B7AAB27F373DC0019FA1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AAA27F373DC0019FA1B /* Assets.xcassets */; };
+		F05B7AB427F373E70019FA1B /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AAD27F373E70019FA1B /* A.wav */; };
+		F05B7AB527F373E70019FA1B /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AAE27F373E70019FA1B /* C.wav */; };
+		F05B7AB627F373E70019FA1B /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AAF27F373E70019FA1B /* B.wav */; };
+		F05B7AB727F373E70019FA1B /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AB027F373E70019FA1B /* F.wav */; };
+		F05B7AB827F373E70019FA1B /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AB127F373E70019FA1B /* G.wav */; };
+		F05B7AB927F373E70019FA1B /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AB227F373E70019FA1B /* E.wav */; };
+		F05B7ABA27F373E70019FA1B /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = F05B7AB327F373E70019FA1B /* D.wav */; };
+		F08C3C0B27F4A11D00CC1351 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F08C3C0A27F4A11D00CC1351 /* Main.storyboard */; };
+		F08C3C1127F4A31700CC1351 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F08C3C1027F4A31700CC1351 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F001E39327F364D40007EAA4 /* xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F001E39627F364D40007EAA4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F001E39827F364D40007EAA4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F001E39A27F364D40007EAA4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F001E39D27F364D40007EAA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F001E39F27F364D60007EAA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F001E3A227F364D60007EAA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F001E3A427F364D60007EAA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F05B7AAA27F373DC0019FA1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F05B7AAD27F373E70019FA1B /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		F05B7AAE27F373E70019FA1B /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		F05B7AAF27F373E70019FA1B /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		F05B7AB027F373E70019FA1B /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		F05B7AB127F373E70019FA1B /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		F05B7AB227F373E70019FA1B /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		F05B7AB327F373E70019FA1B /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		F08C3C0A27F4A11D00CC1351 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		F08C3C1027F4A31700CC1351 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +72,28 @@
 			children = (
 				F001E39627F364D40007EAA4 /* AppDelegate.swift */,
 				F001E39827F364D40007EAA4 /* SceneDelegate.swift */,
-				F001E39A27F364D40007EAA4 /* ViewController.swift */,
-				F001E39C27F364D40007EAA4 /* Main.storyboard */,
-				F001E39F27F364D60007EAA4 /* Assets.xcassets */,
+				F08C3C1027F4A31700CC1351 /* ViewController.swift */,
+				F08C3C0A27F4A11D00CC1351 /* Main.storyboard */,
+				F05B7AAA27F373DC0019FA1B /* Assets.xcassets */,
 				F001E3A127F364D60007EAA4 /* LaunchScreen.storyboard */,
 				F001E3A427F364D60007EAA4 /* Info.plist */,
+				F05B7AAC27F373E70019FA1B /* Sounds */,
 			);
 			path = xylophone;
+			sourceTree = "<group>";
+		};
+		F05B7AAC27F373E70019FA1B /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				F05B7AAD27F373E70019FA1B /* A.wav */,
+				F05B7AAE27F373E70019FA1B /* C.wav */,
+				F05B7AAF27F373E70019FA1B /* B.wav */,
+				F05B7AB027F373E70019FA1B /* F.wav */,
+				F05B7AB127F373E70019FA1B /* G.wav */,
+				F05B7AB227F373E70019FA1B /* E.wav */,
+				F05B7AB327F373E70019FA1B /* D.wav */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +154,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F05B7AB827F373E70019FA1B /* G.wav in Resources */,
+				F08C3C0B27F4A11D00CC1351 /* Main.storyboard in Resources */,
 				F001E3A327F364D60007EAA4 /* LaunchScreen.storyboard in Resources */,
-				F001E3A027F364D60007EAA4 /* Assets.xcassets in Resources */,
-				F001E39E27F364D40007EAA4 /* Main.storyboard in Resources */,
+				F05B7AB727F373E70019FA1B /* F.wav in Resources */,
+				F05B7AAB27F373DC0019FA1B /* Assets.xcassets in Resources */,
+				F05B7AB427F373E70019FA1B /* A.wav in Resources */,
+				F05B7AB627F373E70019FA1B /* B.wav in Resources */,
+				F05B7AB927F373E70019FA1B /* E.wav in Resources */,
+				F05B7ABA27F373E70019FA1B /* D.wav in Resources */,
+				F05B7AB527F373E70019FA1B /* C.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +174,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F001E39B27F364D40007EAA4 /* ViewController.swift in Sources */,
+				F08C3C1127F4A31700CC1351 /* ViewController.swift in Sources */,
 				F001E39727F364D40007EAA4 /* AppDelegate.swift in Sources */,
 				F001E39927F364D40007EAA4 /* SceneDelegate.swift in Sources */,
 			);
@@ -147,14 +183,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F001E39C27F364D40007EAA4 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F001E39D27F364D40007EAA4 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		F001E3A127F364D60007EAA4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -304,7 +332,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -332,7 +360,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
